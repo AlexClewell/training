@@ -12,6 +12,7 @@ export const fieldTypes = {
   DISPLAYTEXT: "pxDisplayText",
   HIDDEN: "pxHidden",
   BUTTON: "pxButton",
+  SLIDER: "pxSlider",
   LABEL: "label",
   LINK: "pxLink",
   URL: "pxURL",
